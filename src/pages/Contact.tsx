@@ -36,7 +36,7 @@ const Contact = () => {
                       type="text"
                       id="firstName"
                       className="w-full px-4 py-3 rounded-xl border border-input bg-background focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
-                      placeholder="John"
+                      placeholder="First Name"
                     />
                   </div>
                   <div>
@@ -47,7 +47,7 @@ const Contact = () => {
                       type="text"
                       id="lastName"
                       className="w-full px-4 py-3 rounded-xl border border-input bg-background focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
-                      placeholder="Doe"
+                      placeholder="Last Name"
                     />
                   </div>
                 </div>
@@ -60,7 +60,7 @@ const Contact = () => {
                     type="email"
                     id="email"
                     className="w-full px-4 py-3 rounded-xl border border-input bg-background focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all"
-                    placeholder="john@example.com"
+                    placeholder="your.email@example.com"
                   />
                 </div>
 
@@ -159,7 +159,7 @@ const Contact = () => {
               {/* Map */}
               <div className="rounded-2xl overflow-hidden shadow-xl h-80">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.2176328079285!2d-73.98784968459395!3d40.75797517932738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258fbd5ec7547%3A0x6c2d05298c3d0601!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2s!4v1234567890123!5m2!1sen!2s"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.9110653936646!2d35.59524987581316!3d3.1182255533402126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x179ea225705f66d5%3A0x332babbde76897a7!2sAsweeto%20Fresh%20Cake%20House!5e0!3m2!1sen!2ske!4v1763198268215!5m2!1sen!2ske"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}

@@ -32,15 +32,6 @@ const About = () => {
                   className="w-full h-auto"
                 />
               </div>
-              {/* <div className="absolute -bottom-6 -right-6 bg-white rounded-2xl shadow-lg p-6 max-w-xs hidden md:block">
-                <div className="flex items-center space-x-3">
-                  <Trophy className="w-8 h-8 text-primary" />
-                  <div>
-                    <p className="font-semibold">Award Winner</p>
-                    <p className="text-sm text-muted-foreground">2023 Best Bakery</p>
-                  </div>
-                </div>
-              </div> */}
             </div>
 
             <div className="space-y-6 slide-up">
